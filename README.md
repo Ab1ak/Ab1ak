@@ -1,9 +1,8 @@
 ### Eai? Sou Gabriel Abiak!
 
-- 🔭 Atualmente trabalho com: Oracle SQL
-- 🌱 Estudando: Java
+- 🔭 Atualmente trabalho com: Engenharia de dados
+- 🌱 Estudando: Python
 - 📫 Como entrar em contato: gabrielquintana041201@gmail.com
-- 😄 Pronouns: Ele/dele
 - ⚡ Fun fact: Apaixonado por natureza e tecnologia.
 
 <div align="center">
