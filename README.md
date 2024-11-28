@@ -9,14 +9,15 @@
   <a href="https://github.com/Ab1ak">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ab1ak&show_icons=true&theme=codeSTACKr&title_color=B00F0F&border_color=B00F0F&include_all_commits=true&count_private=true&icon_color=DC1C1C"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ab1ak&layout=compact&langs_count=7&theme=buefy&title_color=B00F0F&border_color=B00F0F"/>
-</div>
+</div--->
 
   
  <div style="display: inline_block"><br>
 
-  <img align="center" alt="abiak-AirFlow" height="30" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg](https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png)">
-  <img align="center" alt="abiak-SQL" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fvecta.io%2Fsymbols%2F28%2Fmicrosoft-azure-color%2F61%2Fsql-database-generic&psig=AOvVaw3XQp3bBOEzBabh2ZtapE_X&ust=1732879404945000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIC5zf30_okDFQAAAAAdAAAAABAE)">
-  <img align="center" alt="abiak-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="left" alt="abiak-AirFlow" height="34" width="30" src="https://assets.datamation.com/uploads/2018/09/apache_airflow-icon.png">
+  <img align="left" alt="abiak-SQL" height="30" width="30" src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.png">
+  <img align="left" alt="abiak-Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="abiak-PySpark" height="30" width="80" src="https://gktcs.com/static/images/course-img/advancePySpark.png">
  <!--img align="right" alt="abiak-pic" height="150" style="border-radius:50px;" src="link aq"-->
 </div--->
   
