@@ -14,8 +14,8 @@
   
  <div style="display: inline_block"><br>
 
-  <img align="center" alt="abiak-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
-  <img align="center" alt="abiak-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="abiak-AirFlow" height="30" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg](https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png)">
+  <img align="center" alt="abiak-SQL" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fvecta.io%2Fsymbols%2F28%2Fmicrosoft-azure-color%2F61%2Fsql-database-generic&psig=AOvVaw3XQp3bBOEzBabh2ZtapE_X&ust=1732879404945000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIC5zf30_okDFQAAAAAdAAAAABAE)">
   <img align="center" alt="abiak-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <!--img align="right" alt="abiak-pic" height="150" style="border-radius:50px;" src="link aq"-->
 </div>
