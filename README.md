@@ -5,11 +5,11 @@
 - 📫 Como entrar em contato: gabrielquintana041201@gmail.com
 - ⚡ Fun fact: Apaixonado por natureza e tecnologia.
 
-<div align="center">
+<!--div align="center">
   <a href="https://github.com/Ab1ak">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ab1ak&show_icons=true&theme=codeSTACKr&title_color=B00F0F&border_color=B00F0F&include_all_commits=true&count_private=true&icon_color=DC1C1C"/>
-  <!---img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ab1ak&layout=compact&langs_count=7&theme=buefy&title_color=B00F0F&border_color=B00F0F"/--->
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ab1ak&layout=compact&langs_count=7&theme=buefy&title_color=B00F0F&border_color=B00F0F"/>
+</div--->
 
   
  <div style="display: inline_block"><br>
