@@ -1,9 +1,9 @@
-### Eai? Sou Gabriel Abiak!
+### Hey there! I’m Gabriel Abiak!
 
-- 🔭 Atualmente trabalho com: Engenharia de dados
-- 🌱 Estudando: Python
-- 📫 Como entrar em contato: gabrielquintana041201@gmail.com
-- ⚡ Fun fact: Apaixonado por natureza e tecnologia.
+- 🔭 Currently working in: Data Engineering
+- 🌱 Studying: Python
+- ⚡ Fun fact: Passionate about nature and technology.
+- 📫 Contact me through the links below! 👇
 
 <!--div align="center">
   <a href="https://github.com/Ab1ak">
@@ -24,7 +24,7 @@
   
   
 <div>
- <a href="https://www.linkedin.com/in/gabriel-abiak-886636192/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://www.linkedin.com/in/gabriel-abiak/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href = "mailto:gabrielquintana041201@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <!--  <a href="https://instagram.com/gaab.abiak" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
 </div>
